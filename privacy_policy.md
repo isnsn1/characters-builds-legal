@@ -31,7 +31,7 @@ By using Characters Builds, you agree to this Privacy Policy.
 
 # سياسة الخصوصية لبوت Characters Builds
 
-**آخر تحديث:** 1 أكتوبر 2026
+**آخر تحديث:** 5 أكتوبر 2026
 **المطور:** qi1
 
 ## البيانات التي نجمعها
